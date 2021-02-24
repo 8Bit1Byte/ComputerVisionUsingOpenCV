@@ -1,0 +1,18 @@
+:ARRAY IMPLEMENTATION:
+1-D array => (Vector) => Signal
+2-D array => (Matrix) => GrayScale Image
+3-D array => (Tensor) => RGB Image
+
+:COLOR SPACE:
+Different type of color system [ RGB, Gray, BlackAndWhite]
+
+:LEVELS:
+Black and White => 2 levels [0, 1] => 1Bit
+Gray Scale => 2^8 = 256 levels [0, 255] => 8Bits
+RGB => Three Gray Scale Image with Intesity of each (Red, Green, Blue)
+       3 Gray scale with Intesity (RGB) and each 256 levels
+
+:PIXEL:
+Eg(HD) => Resolution 1920x1080 and Type = RGB
+BitDepth = 3
+Size of Image(Bytes) = Resolution x BitDepth

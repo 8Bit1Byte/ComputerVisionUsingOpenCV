@@ -1,0 +1,9 @@
+Read Images, Videos and Webcams
+Basic Function
+Cropping and Resizing
+Shapes and Text
+Wrap Persepctive
+Joining Images
+Color Detectation
+Contour/ Shape Detectation
+Face Detectation
